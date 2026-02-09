@@ -119,7 +119,7 @@ canvas.addEventListener("touchstart", e => {
 });
 
 /* ---------- NAME ANIMATION ---------- */
-const name = "Kamal Uddin";
+const name = "KamalUddin";
 const subtitle = "Creative Developer";
 let text = "";
 let idx = 0;
