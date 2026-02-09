@@ -1,4 +1,4 @@
-![Realistic Fireworks Animation](preview.png)
+![Realistic Fireworks Animation](preview(2).png)
 
 # 🎆 Realistic Fireworks Animation
 
