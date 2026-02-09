@@ -28,5 +28,25 @@ h1 {
     color: white;
     font-size: 32px;
     z-index: 10;
+    background: linear-gradient(45deg,
+            white,
+            rgb(6, 230, 6),
+            #fff,
+            #00ff88,
+            #00ff88);
+    background-position: 0% center;
+    background-size: 200% 200%;
+    color: transparent;
+    background-clip: text;
+    animation: shine 8s linear infinite;
 }
 
+@keyframes shine {
+    from {
+        background-position: 0% center;
+    }
+
+    to {
+        background-position: 300% center;
+    }
+}
